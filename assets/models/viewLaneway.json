@@ -1,0 +1,10 @@
+{
+    "id": 1,
+    "name": "1巷道",
+    "no": 1,
+    "stackerName": "一号堆垛机",
+    "status": "Free",
+    "warehouseName": "料箱库",
+    "emptySlotCount": 92,
+    "stockQuantity": 1068.00000000
+}

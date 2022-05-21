@@ -1,0 +1,17 @@
+{
+    "goodsName": "草莓",
+    "billCode": "CKS20220115000004",
+    "slotCode": "03010102",
+    "id": 6303,
+    "notifyId": 57,
+    "orderNo": "CK20220115002185",
+    "quantity": 1,
+    "time": 1642246310991,
+    "stockCode": "004755",
+    "supplierName": "测试供应商6",
+    "customerName": "测试客户5",
+    "executeFlag": "Executing",
+    "importOrderNo": "RK20220108001297",
+    "importBillCode": "RKS20220108000001",
+    "userName": "科德"
+}

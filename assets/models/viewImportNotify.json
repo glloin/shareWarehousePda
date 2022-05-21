@@ -1,0 +1,29 @@
+[
+    {
+        "id": 12,
+        "goodsName": "草莓",
+        "quantity": 1200,
+        "factQuantity": 1200,
+        "completeQuantity": 1200,
+        "productionDate": 1641730760423,
+        "goodsStatus": "UnChecked"
+    },
+    {
+        "id": 13,
+        "goodsName": "番茄",
+        "quantity": 600,
+        "factQuantity": 600,
+        "completeQuantity": 600,
+        "productionDate": 1641730760423,
+        "goodsStatus": "UnChecked"
+    },
+    {
+        "id": 14,
+        "goodsName": "黄瓜",
+        "quantity": 600,
+        "factQuantity": 0,
+        "completeQuantity": 0,
+        "productionDate": 1641730760423,
+        "goodsStatus": "UnChecked"
+    }
+]

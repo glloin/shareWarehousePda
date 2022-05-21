@@ -1,0 +1,48 @@
+{
+    "avatar": "/files/e7f02c5a0d1db0f6d342537a55c2d293.png",
+    "id": 1,
+    "code": "1001",
+    "pwd": "c4ca4238a0b923820dcc509a6f75849b",
+    "name": "科德",
+    "rights": [
+        {
+            "name": "base",
+            "right": 7,
+            "sysUserGroupId": 1
+        },
+        {
+            "name": "dataQuery",
+            "right": 63,
+            "sysUserGroupId": 1
+        },
+        {
+            "name": "equipment",
+            "right": 7,
+            "sysUserGroupId": 1
+        },
+        {
+            "name": "export",
+            "right": 15,
+            "sysUserGroupId": 1
+        },
+        {
+            "name": "import",
+            "right": 7,
+            "sysUserGroupId": 1
+        },
+        {
+            "name": "stock",
+            "right": 127,
+            "sysUserGroupId": 1
+        },
+        {
+            "name": "system",
+            "right": 7,
+            "sysUserGroupId": 1
+        }
+    ],
+    "groupName": "超级管理员",
+    "groupCode": "000001",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJJZCI6IjEiLCJOYW1lIjoi56eR5b63IiwiQ29kZSI6IjEwMDEiLCJSaWdodHMiOiJbe1wiTmFtZVwiOlwiYmFzZVwiLFwiUmlnaHRcIjo3LFwiU3lzVXNlckdyb3VwSWRcIjoxfSx7XCJOYW1lXCI6XCJkYXRhUXVlcnlcIixcIlJpZ2h0XCI6NjMsXCJTeXNVc2VyR3JvdXBJZFwiOjF9LHtcIk5hbWVcIjpcImVxdWlwbWVudFwiLFwiUmlnaHRcIjo3LFwiU3lzVXNlckdyb3VwSWRcIjoxfSx7XCJOYW1lXCI6XCJleHBvcnRcIixcIlJpZ2h0XCI6MTUsXCJTeXNVc2VyR3JvdXBJZFwiOjF9LHtcIk5hbWVcIjpcImltcG9ydFwiLFwiUmlnaHRcIjo3LFwiU3lzVXNlckdyb3VwSWRcIjoxfSx7XCJOYW1lXCI6XCJzdG9ja1wiLFwiUmlnaHRcIjoxMjcsXCJTeXNVc2VyR3JvdXBJZFwiOjF9LHtcIk5hbWVcIjpcInN5c3RlbVwiLFwiUmlnaHRcIjo3LFwiU3lzVXNlckdyb3VwSWRcIjoxfV0iLCJQd2QiOiJjNGNhNDIzOGEwYjkyMzgyMGRjYzUwOWE2Zjc1ODQ5YiIsImV4cCI6MTc5OTQwMTAwNSwiaXNzIjoid2ViYXBpLmNuIiwiYXVkIjoiV2ViQXBpIn0.PHes0ZW_So5E5pJKBEYdSOo6fpcaioNcRjF_ugXRDHc",
+    "groupId": 1
+}

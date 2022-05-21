@@ -1,0 +1,16 @@
+[
+    {
+        "code": "CKS20220115000004",
+        "customerId": 5,
+        "customerName": "测试客户5",
+        "id": 34,
+        "supplierId": 6,
+        "supplierName": "测试供应商6",
+        "time": 1642246310991,
+        "quantity": 750,
+        "factQuantity": 750,
+        "completeQuantity": 0,
+        "executeFlag": "Executing",
+        "userName": "科德"
+    }
+]

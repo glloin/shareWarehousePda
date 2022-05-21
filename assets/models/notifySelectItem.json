@@ -1,0 +1,20 @@
+[
+    {
+        "quantity": 60,
+        "factQuantity": 60,
+        "value": 6,
+        "label": "草莓"
+    },
+    {
+        "quantity": 60,
+        "factQuantity": 15,
+        "value": 7,
+        "label": "黄瓜"
+    },
+    {
+        "quantity": 60,
+        "factQuantity": 60,
+        "value": 8,
+        "label": "番茄"
+    }
+]

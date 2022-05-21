@@ -1,0 +1,14 @@
+include: package:lints/recommended.yaml
+
+analyzer:
+  errors:
+    prefer_const_declarations: warning
+    prefer_const_constructors: warning
+
+
+linter:
+  rules:
+    prefer_const_declarations: true
+    prefer_const_constructors: true
+
+    

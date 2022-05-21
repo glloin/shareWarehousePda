@@ -1,0 +1,30 @@
+[
+    {
+        "code": "RKS20220106000004",
+        "customerId": null,
+        "customerName": null,
+        "id": 4,
+        "supplierId": null,
+        "supplierName": null,
+        "time": 1641460400785,
+        "quantity": 180,
+        "factQuantity": 128,
+        "completeQuantity": 128,
+        "executeFlag": "Executing",
+        "userName": "科德"
+    },
+    {
+        "code": "RKS20220109000001",
+        "customerId": 3,
+        "customerName": "测试客户3",
+        "id": 6,
+        "supplierId": 5,
+        "supplierName": "测试供应商5",
+        "time": 1641730781379,
+        "quantity": 2400,
+        "factQuantity": 1800,
+        "completeQuantity": 1800,
+        "executeFlag": "Executing",
+        "userName": "科德"
+    }
+]
